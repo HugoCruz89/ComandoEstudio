@@ -1,2 +1,2 @@
 # ComandoEstudio
-Apliccion para gimnasio, el cual podrías entrenar en linea
+Aplicación para gimnasio, el cual podrías entrenar en línea, dentro de esta aplicación me toco participar con un stack de Guadalajara el cual tenia ya construido todo el ambiente, se ocupo axios para la realización de peticiones, redux para la persistencia de datos, pushnotifications para el envió de alertas el cual no me toco participar en ese tema, en este proyecto se utilizo wizard para construcción de formularios y react navigation para la navegación entre otras librerías..
